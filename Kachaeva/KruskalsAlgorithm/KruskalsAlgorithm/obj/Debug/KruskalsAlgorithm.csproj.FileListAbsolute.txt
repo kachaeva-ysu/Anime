@@ -1,0 +1,7 @@
+C:\Inf 4 semestr\Contest\KruskalsAlgorithm\KruskalsAlgorithm\bin\Debug\KruskalsAlgorithm.exe.config
+C:\Inf 4 semestr\Contest\KruskalsAlgorithm\KruskalsAlgorithm\bin\Debug\KruskalsAlgorithm.exe
+C:\Inf 4 semestr\Contest\KruskalsAlgorithm\KruskalsAlgorithm\bin\Debug\KruskalsAlgorithm.pdb
+C:\Inf 4 semestr\Contest\KruskalsAlgorithm\KruskalsAlgorithm\obj\Debug\KruskalsAlgorithm.csprojAssemblyReference.cache
+C:\Inf 4 semestr\Contest\KruskalsAlgorithm\KruskalsAlgorithm\obj\Debug\KruskalsAlgorithm.csproj.CoreCompileInputs.cache
+C:\Inf 4 semestr\Contest\KruskalsAlgorithm\KruskalsAlgorithm\obj\Debug\KruskalsAlgorithm.exe
+C:\Inf 4 semestr\Contest\KruskalsAlgorithm\KruskalsAlgorithm\obj\Debug\KruskalsAlgorithm.pdb
