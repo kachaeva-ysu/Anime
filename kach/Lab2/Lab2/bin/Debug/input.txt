@@ -1,0 +1,4 @@
+Fish Karas 1000000 0,7 Osteichthyes 5000
+Mollusks Osminog 500000 10 Cephalopod false
+Mammals Monachus 100 280 true
+Dolphins Afalin 15000 400 false Grey
