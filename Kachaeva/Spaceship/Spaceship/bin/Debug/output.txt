@@ -1,0 +1,7 @@
+6
+Engine Control
+Central Control
+Waste Storage
+Control Machinery
+Storage Gateway
+Machinery Gateway

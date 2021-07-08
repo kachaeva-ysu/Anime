@@ -1,0 +1,7 @@
+C:\Inf 4 semestr\Contest\Spaceship\Spaceship\bin\Debug\Spaceship.exe.config
+C:\Inf 4 semestr\Contest\Spaceship\Spaceship\bin\Debug\Spaceship.exe
+C:\Inf 4 semestr\Contest\Spaceship\Spaceship\bin\Debug\Spaceship.pdb
+C:\Inf 4 semestr\Contest\Spaceship\Spaceship\obj\Debug\Spaceship.csprojAssemblyReference.cache
+C:\Inf 4 semestr\Contest\Spaceship\Spaceship\obj\Debug\Spaceship.csproj.CoreCompileInputs.cache
+C:\Inf 4 semestr\Contest\Spaceship\Spaceship\obj\Debug\Spaceship.exe
+C:\Inf 4 semestr\Contest\Spaceship\Spaceship\obj\Debug\Spaceship.pdb
